@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MekaVerse](https://mekaverse.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/dashboard](https://vercel.com/dashboard)
+- 👨‍💻 My portfolio website https://seifsameh.vercel.app/
 
 - 💬 Ask me about **Html , Css , javascript ,JQuery ,Scss , Bootstrap, tailwindcss, EcmaScript +6, oop, ajax / json, gulp.js, npm, git / github, jest, react.js, react hooks, react router, material ui**
 
