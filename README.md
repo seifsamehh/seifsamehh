@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seif Eldin Sameh</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Imaginary](https://imaginaryy.vercel.app/)
+- 👨‍💻 My portfolio website https://seif-sameh.vercel.app/
 
 - 🌱 I’m currently learning **Next.js, Redux-toolkit**
-
-- 🔭 I’m currently working on [MekaVerse](https://mekaverse.vercel.app/)
-
-- 👨‍💻 My portfolio website https://seif-sameh.vercel.app/
 
 - 💬 Ask me about **Html , Css , javascript ,JQuery ,Scss , Bootstrap, tailwindcss, EcmaScript +6, oop, ajax / json, gulp.js, npm, git / github, jest, react.js, react hooks, react router, material ui**
 
