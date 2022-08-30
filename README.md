@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **seiffsameh00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KLqDdQLKttFjZqK7-sYAEMp1yq5Mbo3S/view?usp=sharing](https://drive.google.com/file/d/1KLqDdQLKttFjZqK7-sYAEMp1yq5Mbo3S/view?usp=sharing)
-
 - ⚡ fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
