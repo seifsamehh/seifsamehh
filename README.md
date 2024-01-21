@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer</h3>
 
 # 💫 About Me:
-<br>👨‍💻 My portfolio website is https://seif-sameh-mern.vercel.app/<br><br>🌱 I’m currently learning **Node.js, MongoDB**<br><br>💬 Ask me about **Html, CSS, Javascript, JQuery, SCSS, Bootstrap, tailwindcss, EcmaScript +6, oop, ajax / JSON, gulp.js, npm, git / GitHub, jest, react.js, react hooks, react-router, material UI, next.js**<br><br>📫 How to reach me **seiffsameh00@gmail.com**<br><br>⚡ fact **I love coding**
+<br>👨‍💻 My portfolio website is https://seif-eldin-website.vercel.app/<br><br>🌱 I’m currently learning **Node.js, MongoDB**<br><br>💬 Ask me about **Html, CSS, Javascript, JQuery, SCSS, Bootstrap, tailwindcss, EcmaScript +6, oop, ajax / JSON, gulp.js, npm, git / GitHub, jest, react.js, react hooks, react-router, material UI, next.js**<br><br>📫 How to reach me **seiffsameh00@gmail.com**<br><br>⚡ fact **I love coding**
 
 ```javascript
 console.log("Welcome to my profile");
