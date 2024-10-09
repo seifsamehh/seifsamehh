@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Supabase, PostgreSQL<br>👨‍💻 All of my projects are available at https://seifeldin.vercel.app<br>📝 I regularly write articles on https://www.linkedin.com/in/seif-eldin-sameh<br>💬 Ask me about Html, CSS, JavaScript, TypeScript, Tailwind CSS, Redux, Zustand, React.js, Next.js, Supabase, Node.js, Express.js, Nest.js, NoSQL<br>📫 How to reach me seiffsameh00@gmail.com<br>📄 Know about my experiences [https://drive.google.com/file/d/1xmy2s81KV2-ZLKf9m1HzQB43gJnPQ2kK/view?usp=drive_link](https://drive.google.com/file/d/1NTdC22SDgkNktk_VKdGaP6E22T2qh5cs/view?usp=sharing)
+🌱 I’m currently learning Supabase, PostgreSQL<br>👨‍💻 All of my projects are available at https://seifeldin.vercel.app<br>📝 I regularly write articles on https://www.linkedin.com/in/seif-eldin-sameh<br>💬 Ask me about Html, CSS, JavaScript, TypeScript, Tailwind CSS, Redux, Zustand, React.js, Next.js, Supabase, Node.js, Express.js, Nest.js, NoSQL<br>📫 How to reach me seiffsameh00@gmail.com
 
 
 ## 🌐 Socials:
