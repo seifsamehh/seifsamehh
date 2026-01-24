@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning more advanced technical topics<br>👨‍💻 All of my projects are available at https://seifeldinsameh.vercel.app<br>📝 I regularly write articles on https://www.linkedin.com/in/seif-eldin-sameh<br>💬 Ask me about react, next, gsap, and typescript<br>📫 How to reach me seiffsameh00@gmail.com
+🌱 I’m currently learning more advanced technical topics<br>👨‍💻 All of my projects are available at https://seifeldinsameh.dev<br>📝 I regularly write articles on https://www.linkedin.com/in/seif-eldin-sameh<br>💬 Ask me about react, next, gsap, and typescript<br>📫 How to reach me seiffsameh00@gmail.com
 
 
 ## 🌐 Socials:
